@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://bigboi-tm.github.io/csb-7d99m/static/css/main.7961d50f.chunk.css",
+    "main.js": "https://bigboi-tm.github.io/csb-7d99m/static/js/main.4f44c12f.chunk.js",
+    "main.js.map": "https://bigboi-tm.github.io/csb-7d99m/static/js/main.4f44c12f.chunk.js.map",
+    "runtime-main.js": "https://bigboi-tm.github.io/csb-7d99m/static/js/runtime-main.11ffad9a.js",
+    "runtime-main.js.map": "https://bigboi-tm.github.io/csb-7d99m/static/js/runtime-main.11ffad9a.js.map",
+    "static/js/2.c51024dc.chunk.js": "https://bigboi-tm.github.io/csb-7d99m/static/js/2.c51024dc.chunk.js",
+    "static/js/2.c51024dc.chunk.js.map": "https://bigboi-tm.github.io/csb-7d99m/static/js/2.c51024dc.chunk.js.map",
+    "index.html": "https://bigboi-tm.github.io/csb-7d99m/index.html",
+    "static/css/main.7961d50f.chunk.css.map": "https://bigboi-tm.github.io/csb-7d99m/static/css/main.7961d50f.chunk.css.map",
+    "static/js/2.c51024dc.chunk.js.LICENSE.txt": "https://bigboi-tm.github.io/csb-7d99m/static/js/2.c51024dc.chunk.js.LICENSE.txt",
+    "static/media/Profile.css": "https://bigboi-tm.github.io/csb-7d99m/static/media/uni-sans.heavy-caps.de76b172.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ffad9a.js",
+    "static/js/2.c51024dc.chunk.js",
+    "static/css/main.7961d50f.chunk.css",
+    "static/js/main.4f44c12f.chunk.js"
+  ]
+}
